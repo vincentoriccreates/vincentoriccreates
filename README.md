@@ -6,8 +6,8 @@
 ---
 
 ## 🔥 About Me  
-I’m **Vincent Oric** — a passionate **WordPress Developer**, **Web Designer**, and **Graphics Designer** who builds fast, modern, and responsive websites for businesses and entrepreneurs.
-
+designer • developer • learner  
+making small things look good + work better
 💡 *“Design is not just what it looks like. Design is how it works.”*
 
 
