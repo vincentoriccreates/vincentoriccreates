@@ -10,16 +10,7 @@ I’m **Vincent Oric** — a passionate **WordPress Developer**, **Web Designer*
 
 💡 *“Design is not just what it looks like. Design is how it works.”*
 
----
 
-## 📊 GitHub Overview
-<div align="center">
-
-<img src="profile-stats/stats.svg" height="170" />
-<img src="profile-stats/languages.svg" height="170" />
-
-</div>
----
 
 ## ⚙️ Technologies & Tools
 
