@@ -16,14 +16,9 @@ I’m **Vincent Oric** — a passionate **WordPress Developer**, **Web Designer*
 
 <div align="center">
 
-<!-- GitHub Stats (Working Mirror) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vincentoriccreates&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<!-- Top Languages (Working Mirror) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vincentoriccreates&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-<!-- Grade Card (Stable Mirror) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=vincentoriccreates&theme=tokyonight" height="170" />
+<img src="https://raw.githubusercontent.com/vincentoriccreates/vincentoriccreates/main/stats.svg" height="170" />
+<img src="https://raw.githubusercontent.com/vincentoriccreates/vincentoriccreates/main/languages.svg" height="170" />
+<img src="https://raw.githubusercontent.com/vincentoriccreates/vincentoriccreates/main/grade.svg" height="170" />
 
 </div>
 
