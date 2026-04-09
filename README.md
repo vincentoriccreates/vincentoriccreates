@@ -13,15 +13,12 @@ I’m **Vincent Oric** — a passionate **WordPress Developer**, **Web Designer*
 ---
 
 ## 📊 GitHub Overview
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vincentoriccreates/vincentoriccreates/main/stats.svg" height="170" />
-<img src="https://raw.githubusercontent.com/vincentoriccreates/vincentoriccreates/main/languages.svg" height="170" />
-<img src="https://raw.githubusercontent.com/vincentoriccreates/vincentoriccreates/main/grade.svg" height="170" />
+<img src="profile-stats/stats.svg" height="170" />
+<img src="profile-stats/languages.svg" height="170" />
 
 </div>
-
 ---
 
 ## ⚙️ Technologies & Tools
